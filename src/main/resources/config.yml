@@ -1,0 +1,7 @@
+# StraightArrows config by Heklo
+
+# Change these values to increase/decrease the velocities of bow boosting.
+vertical-multiplier: 1
+horizontal-multiplier: 1
+
+# To reload the plugin after editing these values, use "/straightarrows reload"
