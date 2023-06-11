@@ -1,7 +1,0 @@
-main: me.Heklo.StraightArrows.StraightArrows
-name: StraightArrows
-version: 1.0
-author: Heklo
-
-commands:
-  straightarrows:
