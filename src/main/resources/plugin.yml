@@ -1,0 +1,7 @@
+name: StraightArrows
+version: '${project.version}'
+main: me.heklo.straightarrows.StraightArrows
+authors: [ Heklo ]
+description: A bow boosting plugin that allows for perfectly straight boosting with customizable velocities.
+commands:
+  straightarrows:
